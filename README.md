@@ -1,2 +1,4 @@
-# Incapp.java
-This is my 1st private repositories
+Incapp.Java 
+This is my 1st Git repository.
+Autor - Kumar Vikal 
+
